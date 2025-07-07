@@ -22,12 +22,12 @@ export default function LoveWebsite() {
   ]
 
   const quotes = [
-    "Cinta adalah kedamaian yang paling indah dalam hidup kita",
-    "Bersamamu, setiap hari adalah hari kasih sayang",
-    "Kamu adalah alasan mengapa hatiku selalu damai",
-    "Hatiku memilihmu, bukan tanpa alasan",
-    "Langit tak selalu biru, tapi cintamu membuatku tenang",
-    "Kamu membuat hidupku penuh warna dan kebahagiaan",
+    "Love you sayangku cantikku",
+    "Bareng-bareng terus yaa",
+    "Kapan tiket pesawat murah...",
+    "Jangan oleng ke cowo lain woi",
+    "Semangat sayang",
+    "Walau kamu cabul, aku sayang cinta kamu ko",
   ]
 
   const nextImage = () => {

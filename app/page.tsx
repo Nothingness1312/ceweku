@@ -13,12 +13,12 @@ export default function LoveWebsite() {
   const audioRef = useRef<HTMLAudioElement>(null)
 
   const images = [
-    "/placeholder.svg?height=400&width=600",
-    "/placeholder.svg?height=400&width=600",
-    "/placeholder.svg?height=400&width=600",
-    "/placeholder.svg?height=400&width=600",
-    "/placeholder.svg?height=400&width=600",
-    "/placeholder.svg?height=400&width=600",
+    "/sayang1.png?height=400&width=600",
+    "/sayang2.png?height=400&width=600",
+    "/sayang3.png?height=400&width=600",
+    "/sayang4.png?height=400&width=600",
+    "/sayang5.png?height=400&width=600",
+    "/sayang6.png?height=400&width=600",
   ]
 
   const quotes = [

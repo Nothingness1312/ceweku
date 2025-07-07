@@ -25,8 +25,8 @@ export default function LoveWebsite() {
     "Cinta adalah kedamaian yang paling indah dalam hidup kita",
     "Bersamamu, setiap hari adalah hari kasih sayang",
     "Kamu adalah alasan mengapa hatiku selalu damai",
-    "Dalam pelukanmu, aku menemukan surga dunia",
-    "Cinta kita adalah simfoni terindah yang pernah ada",
+    "Hatiku memilihmu, bukan tanpa alasan",
+    "Langit tak selalu biru, tapi cintamu membuatku tenang",
     "Kamu membuat hidupku penuh warna dan kebahagiaan",
   ]
 
@@ -107,7 +107,7 @@ export default function LoveWebsite() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-pink-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent mb-6 animate-fade-in">
-            Hari Kasih Sayang
+            Happy National Day Of Peace And Love
           </h1>
 
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-700 mb-8">Untuk Ceweku Tersayang 💕</h2>
@@ -128,10 +128,10 @@ export default function LoveWebsite() {
       <section className="py-20 px-4">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-4 bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent">
-            Galeri Kenangan Kita
+            Ceweku
           </h2>
           <p className="text-xl text-gray-600 text-center mb-12">
-            Setiap foto adalah cerita indah yang kita tulis bersama
+            Setiap foto tentang dirimu yang selalu cantik dimanapun
           </p>
 
           <div className="relative">
@@ -200,23 +200,23 @@ export default function LoveWebsite() {
       <section className="py-20 px-4 bg-gradient-to-r from-pink-50 to-purple-50">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent">
-            Pesan Cinta Untukmu
+            Message buat kamu sayang hehe
           </h2>
 
           <div className="grid md:grid-cols-2 gap-8">
             {[
               {
-                title: "Kedamaian dalam Cinta",
+                title: "Semangat PKL sayang",
                 message:
-                  "Bersamamu, aku menemukan kedamaian yang sesungguhnya. Setiap detik bersamamu adalah anugerah terindah.",
+                  "Semoga PKL nya diberikan kelancaran dan kemudahan, semangat sayanggg. Butuh apa apa nanti langsung call aja yaa.",
               },
               {
-                title: "Kasih Sayang Abadi",
-                message: "Cinta kita adalah simbol perdamaian yang akan terus bersinar hingga akhir waktu.",
+                title: "Love You Sayangku",
+                message: "Sayang kamu tiap detik, jam, hari, minggu, bulan, tahun, selamanya yeay.",
               },
               {
-                title: "Kebahagiaan Sejati",
-                message: "Kamu adalah alasan mengapa setiap hari terasa istimewa dan penuh makna.",
+                title: "Let's Go Japan",
+                message: "Jangan udahan sebelum serumah, sekamar, sejepang.",
               },
               {
                 title: "Masa Depan Bersama",
@@ -246,7 +246,7 @@ export default function LoveWebsite() {
             <Heart className="h-8 w-8 text-pink-200 animate-pulse" />
           </div>
           <p className="text-xl mb-4">Untuk ceweku yang paling istimewa di dunia</p>
-          <p className="text-pink-200">Dibuat dengan ❤️ khusus untukmu • {new Date().getFullYear()}</p>
+          <p className="text-pink-200">.</p>
         </div>
       </footer>
     </div>

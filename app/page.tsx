@@ -66,7 +66,7 @@ export default function LoveWebsite() {
       {/* Background Music */}
       <audio ref={audioRef} loop muted={isMuted}>
         {/* Note: In a real implementation, you would need to use royalty-free music */}
-        <source src="/placeholder-audio.mp3" type="audio/mpeg" />
+        <source src="/song.mp3" type="audio/mpeg" />
       </audio>
 
       {/* Music Control */}
